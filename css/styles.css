@@ -1,0 +1,95 @@
+/* Color Palette
+# - #A9B2FC - Light purple
+# - #79BDB5 - Grey Blue
+# - #876EAC - Purple
+# - #1F182A - Black
+# - #E8EBFF - Off White
+# - #F5F5DE - nice yellow
+*/
+
+
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: #F5F5DE;
+    font-family: "Inter";
+    font-weight: 200;
+}
+
+h1 {
+    color: black;
+    font-family: "Rubik";
+    font-weight: 900;
+}
+
+h2 {
+    color: black;
+    font-family: "Inter";
+    font-weight: 700;
+}
+
+h3 {
+    color: black;
+    font-family: "Inter";
+    font-weight: 500;
+}
+
+h4 {
+    color: black;
+    font-family: "Inter";
+    font-weight: 400;
+}
+
+h5, h6 {
+    color: black;
+    font-family: "Inter";
+    font-weight: 300;
+}
+
+p {
+    color: rgb(73, 73, 73);
+    font-family: "Inter";
+    font-weight: 200;
+}
+
+
+
+/* Header & Footer 
+------------------------------------*/
+header {
+max-width: 900px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background-color: rgb(255, 227, 191);
+}
+
+footer {
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background-color: rgb(251, 204, 142);
+}
+
+
+/* Work Experience
+------------------------------------*/
+
+.work-experience {
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background-color: antiquewhite;
+}
+
+
+
+/* Education
+------------------------------------*/
+
+.education {
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background-color: rgb(233, 212, 185);
+}
